@@ -1,0 +1,362 @@
+{
+  "Dr.SUSNAINI JULITA,SE.,M.Pd": {
+    "NIP": "197307132005022001",
+    "Mapel": "IPS",
+    "Class": {
+      "VII": [],
+      "VIII": [],
+      "IX": []
+    },
+    "JP": null
+  },
+  "MASTA SIMANUNGKALIT, S.Pd": {
+    "NIP": "196810111990032008",
+    "Mapel": "MTK",
+    "Class": {
+      "VII": [],
+      "VIII": [],
+      "IX": [5, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    "JP": 15
+  },
+  "MIDIA WATI KESUMA, S.Pd": {
+    "NIP": "197302101998022003",
+    "Mapel": "IPA",
+    "Class": {
+      "VII": [],
+      "VIII": [],
+      "IX": [5, 5, 5, 5, 5, 5, 0, 0, 0, 0, 0]
+    },
+    "JP": 30
+  },
+  "EKA MAULINA, S.Pd": {
+    "NIP": "19750326014072001",
+    "Mapel": "BInggris",
+    "Class": {
+      "VII": [4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0],
+      "VIII": [],
+      "IX": []
+    },
+    "JP": 16
+  },
+  "ILHAM HAPIS A. S.Pd., MM.": {
+    "NIP": "",
+    "Mapel": "IPA",
+    "Class": {
+      "VII": [],
+      "VIII": [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5],
+      "IX": [0, 0, 0, 0, 0, 0, 5, 5, 5, 5]
+    },
+    "JP": 35
+  },
+  "OKTA RISALAH, M.Pd. I": {
+    "Mapel": "PABP",
+    "Class": {
+      "VII": [],
+      "VIII": [],
+      "IX": [3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 0]
+    },
+    "JP": 27
+  },
+  "HADI ISMANTO, S.Pd I": {
+    "Mapel": "PABP",
+    "Class": {
+      "VII": [],
+      "VIII": [3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 0],
+      "IX": []
+    },
+    "JP": 27
+  },
+  "ZAHRA. S.Pd": {
+    "Mapel": "PABP",
+    "Class": {
+      "VII": [3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0],
+      "VIII": [],
+      "IX": []
+    }
+  },
+  "SUWINARSIH, S.Ag": {
+    "Mapel": "PABP",
+    "Class": {
+      "VII": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3],
+      "VIII": [],
+      "IX": [0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3]
+    },
+    "JP": 9
+  },
+  "SUWINARSIH, S.Ag-2": {
+    "Mapel": "BINDO",
+    "Class": {
+      "VII": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3],
+      "VIII": [],
+      "IX": [0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3]
+    },
+    "JP": 9
+  },
+  "ANGGUN WIDYAWATI S.Pd": {
+    "Mapel": "PABP",
+    "Class": {
+      "VII": [],
+      "IX": [],
+      "VIII": [0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3]
+    },
+    "JP": 6
+  },
+  "ANGGUN WIDYAWATI S.Pd-2": {
+    "Mapel": "BINDO",
+    "Class": {
+      "VII": [],
+      "IX": [],
+      "VIII": [0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3]
+    },
+    "JP": 6
+  },
+  "RADEN AYU YUNITA S.Pd": {
+    "Mapel": "PKN",
+    "Class": {
+      "VII": [],
+      "VIII": [],
+      "IX": [3, 3, 3, 3, 3, 3, 3, 3, 0, 0, 0]
+    },
+    "JP": 24
+  },
+  "RESTY TARINA, S.Pd. M.Si": {
+    "Mapel": "PKN",
+    "Class": {
+      "VII": [3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 0],
+      "VIII": [],
+      "IX": []
+    },
+    "JP": 27
+  },
+  "TAMA SIMAJUNTAK. A.Md": {
+    "Mapel": "PKN",
+    "Class": {
+      "VII": [0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3],
+      "VIII": [3, 3, 3, 3, 3, 3, 0, 0, 0, 0, 0],
+      "IX": []
+    },
+    "JP": 24
+  },
+  "SYIFA NURUL LATIFA. S.Pd": {
+    "Mapel": "PKN",
+    "Class": {
+      "VII": [],
+      "VIII": [0, 0, 0, 0, 0, 0, 3, 3, 3, 3, 3],
+      "IX": [0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3]
+    },
+    "JP": 24
+  },
+  "Dra. ELIASABETH": {
+    "Mapel": "BINDO",
+    "Class": {
+      "VII": [],
+      "VIII": [0, 0, 0, 0, 0, 0, 0, 6, 6, 6, 6],
+      "IX": []
+    },
+    "JP": 24
+  },
+  "REVI AGUSTINA": {
+    "Mapel": "BINDO",
+    "Class": {
+      "VII": [],
+      "VIII": [],
+      "IX": [6, 6, 6, 6, 6, 6, 0, 0, 0, 0, 0]
+    },
+    "JP": 36
+  },
+  "SURYA SRI SEPTI, S.Pd": {
+    "Mapel": "BINDO",
+    "Class": {
+      "VII": [],
+      "VIII": [6, 6, 6, 6, 6, 0, 0, 0, 0, 0, 0],
+      "IX": []
+    },
+    "JP": 30
+  },
+  "EKO APRIDENI, S.Pd": {
+    "Mapel": "BINDO",
+    "Class": {
+      "VII": [0, 0, 0, 0, 0, 6, 6, 6, 6, 6, 6],
+      "VIII": [],
+      "IX": []
+    },
+    "JP": 36
+  },
+  "DENNY YESSY, S.Pd": {
+    "Mapel": "BINDO",
+    "Class": {
+      "VII": [],
+      "VIII": [],
+      "IX": [0, 0, 0, 0, 0, 0, 6, 6, 6, 6, 6]
+    }
+  },
+  "SINTA MAYASARI, S.Pd": {
+    "Mapel": "BINDO",
+    "Class": {
+      "VII": [6, 6, 6, 6, 6, 0, 0, 0, 0, 0, 0],
+      "VIII": [],
+      "IX": []
+    }
+  },
+  "SRI GUSTINA, M. S.Pd": {
+    "Mapel": "MTK",
+    "Class": {
+      "VII": [],
+      "VIII": [0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5],
+      "IX": []
+    }
+  },
+  "Hj. HAHMDAH, S.Pd, MM": {
+    "Mapel": "MTK",
+    "Class": {
+      "VII": [],
+      "VIII": [],
+      "IX": [0, 0, 0, 5, 5, 5, 5, 5, 5, 0, 0]
+    }
+  },
+  "RITA LIOSA, S.Pd": {
+    "Mapel": "MTK",
+    "Class": {
+      "VII": [],
+      "VIII": [5, 5, 5, 5, 5, 5, 0, 0, 0, 0, 0],
+      "IX": []
+    }
+  },
+  "DESTIANA INDAH .P.S, S.Pd": {
+    "Mapel": "MTK",
+    "Class": {
+      "VII": [5, 5, 5, 5, 5, 5, 0, 0, 0, 0, 0],
+      "VIII": [],
+      "IX": []
+    }
+  },
+  "NADIAH,S.Pd": {
+    "Mapel": "MTK",
+    "Class": {
+      "VII": [0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5],
+      "VIII": [],
+      "IX": []
+    }
+  },
+  "Hj.ANDI FAUZIAH, S.Pd": {
+    "Mapel": "BInggris",
+    "Class": {
+      "VII": [],
+      "VIII": [0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4],
+      "IX": []
+    }
+  },
+  "CANDRA SANTI, S.Pd., Ing.": {
+    "Mapel": "BInggris",
+    "Class": {
+      "VII": [0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4],
+      "VIII": [4, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0],
+      "IX": []
+    }
+  },
+  "AGUSPRIHATININGSIH, M.Pd": {
+    "Mapel": "BInggris",
+    "Class": {
+      "VII": [],
+      "VIII": [],
+      "IX": [4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0]
+    }
+  },
+  "AMSRI MURNI, S.Pd": {
+    "Mapel": "BInggris",
+    "Class": {
+      "VII": [0, 0, 0, 0, 4, 4, 4, 4, 4, 0, 0],
+      "VIII": [],
+      "IX": []
+    }
+  },
+  "AMSRI MURNI, S.Pd 2": {
+    "Mapel": "TIK",
+    "Class": {
+      "VII": [],
+      "VIII": [3, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0],
+      "IX": []
+    }
+  },
+  "EMI YANTI, S.Pd": {
+    "Mapel": "BInggris",
+    "Class": {
+      "VII": [],
+      "VIII": [],
+      "IX": [0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4]
+    }
+  },
+  "EMI YANTI, S.Pd 2": {
+    "Mapel": "TIK",
+    "Class": {
+      "VII": [],
+      "VIII": [0, 0, 5, 5, 5, 5, 5, 5, 5, 0, 0],
+      "IX": []
+    }
+  },
+  "BUDI RAMADHAN": {
+    "Mapel": "BInggris",
+    "Class": {
+      "VII": [],
+      "VIII": [],
+      "IX": [0, 0, 0, 0, 0, 0, 0, 4, 4, 0, 0]
+    }
+  },
+  "Hj. SARLIANI, S.Pd": {
+    "Mapel": "IPA",
+    "Class": {
+      "VII": [5, 5, 5, 5, 5, 5, 0, 0, 0, 0, 0],
+      "VIII": [],
+      "IX": []
+    }
+  },
+  "Dra. FARIDAH, SH": {
+    "Mapel": "IPA",
+    "Class": {
+      "VII": [],
+      "VIII": [0, 0, 5, 5, 5, 5, 5, 5, 5, 0, 0],
+      "IX": []
+    }
+  },
+  "VIDIA NUR VADILLA, S.Pd": {
+    "Mapel": "IPA",
+    "Class": {
+      "VII": [0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5],
+      "VIII": [5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "IX": []
+    }
+  },
+  "AVERLINA SIREGAR, S.Pd": {
+    "Mapel": "IPS",
+    "Class": {
+      "VII": [],
+      "VIII": [4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0],
+      "IX": []
+    }
+  },
+  "YULIANSARI, S.Pd": {
+    "Mapel": "IPS",
+    "Class": {
+      "VII": [],
+      "VIII": [0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4],
+      "IX": [0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4]
+    }
+  },
+  "NIDYA RACHMAWATI U. S.Pd": {
+    "Mapel": "IPS",
+    "Class": {
+      "VII": [4, 4, 4, 4, 4, 4, 4, 0, 0, 0, 0],
+      "VIII": [],
+      "IX": []
+    }
+  },
+  "DONNY LESMANA,S.Pd": {
+    "Mapel": "IPS",
+    "Class": {
+      "VII": [],
+      "VIII": [],
+      "IX": [4, 4, 4, 4, 4, 4, 0, 0, 0, 0, 0]
+    }
+  }
+}
